@@ -28,7 +28,7 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Dakota</strong> who lives and works in Edmonton, AB and writes about random things.{' '}
-          <a href="www.linkedin.com/in/dakotahourie/">
+          <a href="https://www.linkedin.com/in/dakotahourie/">
             You should add him on Linkedin
           </a>
         </p>
